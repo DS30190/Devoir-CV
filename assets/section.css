@@ -1,0 +1,43 @@
+.Gauche h2{
+    width: 300px;
+    background-color:#dbc2a4 ;
+    color: black;
+    text-indent: 10px;
+}
+.Droite h2{
+    width: 780px;
+    background-color:#dbc2a4 ;
+    color: black;
+}
+section{
+    height: 1000px;
+    border-right: 1px solid black;
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+   
+}
+.Gauche{
+    width: 330px;
+    height: 1000px;
+    background-color: #782221;
+    color: white;
+    text-align: justify;
+    margin-right: 20px;
+   }
+.Droite{
+    width: 829px;
+    height: 1000px;
+   
+  
+}
+.bold{
+    font-weight: bold;
+}
+p{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.text{
+    text-indent: 50px;
+}
