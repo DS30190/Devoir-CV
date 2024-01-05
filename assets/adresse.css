@@ -1,12 +1,21 @@
 address{
+    height: 50px;
     background-color: #2c1d27;
-        display: flex;
+    display: flex;
     flex-direction: row;
     flex-wrap:  wrap;   
     justify-content: space-around;
     align-items: center;
-    flex-basis: auto;
-    margin: auto;
+    flex-basis: 33%;
+    
 }
+#email{
+    padding-right: 100px;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 
 

@@ -8,6 +8,8 @@
     width: 780px;
     background-color:#dbc2a4 ;
     color: black;
+    border-left: 10px solid #782221;
+    text-indent: 5px;
 }
 section{
     height: 1000px;
@@ -40,4 +42,7 @@ p{
 }
 .text{
     text-indent: 50px;
+}
+li{
+    text-align: left;
 }
