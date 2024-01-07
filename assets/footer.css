@@ -3,10 +3,10 @@
     color: white;
     height: 100px;
     text-align: center;
-    padding-top: 10px;
-    
+    padding-top: 20px;
 }
 .fa-linkedin{
+    padding-top: 0;
     background-color:white;
     color:#0e76a8;
 }
