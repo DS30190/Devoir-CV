@@ -30,9 +30,7 @@ section{
 .Droite{
     width: 829px;
     height: 1000px;
-   
-  
-}
+   }
 .bold{
     font-weight: bold;
 }
@@ -45,4 +43,7 @@ p{
 }
 li{
     text-align: left;
+}
+.Droite h2:hover{
+    border-right: 10px solid #782221;
 }

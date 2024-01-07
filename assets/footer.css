@@ -1,14 +1,17 @@
-    footer{
+footer{
     background-color: #782221;
     color: white;
     height: 100px;
     text-align: center;
     padding-top: 20px;
 }
+img{
+    height: 16px;
+    width:16px;
+}
 .fa-linkedin{
-    padding-top: 0;
-    background-color:white;
-    color:#0e76a8;
+    background-color: white;
+    color: #0e76a8;
 }
 .fa-twitter{
     background-color:#00acee;
@@ -17,4 +20,7 @@
 .fa-square-github{
     background-color: white;
     color:#782221;
+}
+footer div:hover{
+    opacity: 0.8;
 }
