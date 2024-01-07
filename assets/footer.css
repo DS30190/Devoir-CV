@@ -12,6 +12,7 @@ img{
 .fa-linkedin{
     background-color: white;
     color: #0e76a8;
+    object-fit: contain;
 }
 .fa-twitter{
     background-color:#00acee;
